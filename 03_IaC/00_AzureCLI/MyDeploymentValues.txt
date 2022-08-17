@@ -1,5 +1,5 @@
-botSubDomain=probot.vsalis.eu
-botName=myTeamsRecBot
-projectPrefix=porbot
-azureLocation=francecentral
-acrName=porbotacr
+botSubDomain=pikachu-recr.teachpikachu.online
+botName=pikachu-recorder
+projectPrefix=pikachu
+azureLocation=centralindia
+acrName=pikachurecbot
