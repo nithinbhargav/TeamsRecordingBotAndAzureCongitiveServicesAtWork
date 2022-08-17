@@ -1,5 +1,5 @@
 botSubDomain=pikachu-recr.teachpikachu.online
 botName=pikachu-recorder
-projectPrefix=pikachurec
+projectPrefix=pikachurecdev
 azureLocation=centralindia
-acrName=pikachurecacr
+acrName=pikachurecdevacr
